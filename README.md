@@ -58,4 +58,4 @@ At **Borderless Coding**, we’re creating an ecosystem to connect Brazilian tec
 
 ---
 
-⭐️ **Fun Fact:** **I speak 5 languages:** English, Russian, Portuguese, Spanish, and Catalan. 
+⭐️ **Fun Fact:** I speak 5 languages: English, Russian, Portuguese, Spanish, and Catalan. 
