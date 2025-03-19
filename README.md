@@ -2,7 +2,7 @@
 
 👨‍💻 **About Me**  
 
-I'm a **Tech Startup Advisor and Founder** with **13 years of experience** as a software engineer. I’ve built banks from scratch, worked at a Silicon Valley Web3 company, and now I’m focused on building **Borderless Coding**, a company that connects, trains, and prepares Brazilian tech professionals for the global market.  
+I'm a **Founder and Tech Startup Advisor** with **13 years of experience** as a software engineer. I’ve built banks from scratch, worked at a Silicon Valley Web3 company, and now I’m focused on building **Borderless Coding**, a company that connects, trains, and prepares Brazilian tech professionals for the global market.  
 
 While I spend only **20% of my time coding** these days, my technical foundation allows me to deeply understand and advise on complex systems, scalability, and innovation. My passion lies in creating ecosystems that empower people and businesses to thrive in the global tech landscape.  
 
